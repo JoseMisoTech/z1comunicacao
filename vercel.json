@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/redireciona",
+      "destination": "https://www.redirectmais.com/wpp/23128",
+      "permanent": false
+    }
+  ]
+}
